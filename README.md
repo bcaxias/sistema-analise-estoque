@@ -6,10 +6,9 @@ O objetivo principal não é criar uma solução completa ou comercial, mas sim 
 
 ## 🎯 Objetivo
 
-* Praticar lógica de programação em Python
-* Aplicar conceitos acadêmicos em um contexto real
-* Simular operações básicas de controle de estoque
-* Compreender o fluxo de entrada, saída e análise de dados
+Este projeto foi desenvolvido com fins educacionais, com o objetivo de praticar a manipulação e análise de dados, simulando um cenário de controle de estoque baseado em situações do dia a dia.
+
+Não se trata de uma solução aplicada diretamente em ambiente real, mas sim de um exercício prático para consolidar conhecimentos em banco de dados, Python e ferramentas de análise.
 
 ## 🚀 Funcionalidades implementadas
 
